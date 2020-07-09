@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m a Front End Developer based in Shenzhen.
+🔭   I’m a Front End Developer based in Shenzhen.
 
-🌱 I like Basketball and Coding.
+🌱   I like Basketball and Coding.
 
-😄 Welcome to follow me, I'll Share something about the Front End.
+😄   Welcome to follow me, I'll Share something about the Front End.
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
