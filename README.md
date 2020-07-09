@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 🔭 I’m a Front End Developer based in Shenzhen.
+
 🌱 I like Basketbal and Coding.
+
 😄 Welcome to follow me, I'll Share something about the Front End.
 
 <!-- - 👯 I’m looking to collaborate on ...
