@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m a Front End Developer based in Shenzhen.
+🔭 I’m a FrontEnd Developer based in Shenzhen.
 
 🌱 I like Basketball and Coding.
 
