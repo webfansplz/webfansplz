@@ -10,7 +10,7 @@
 
 # Hi 👋
 
-I'm webfansplz, a software engineer with a passion for open source. Active in the vue.js ecosystem.
+I'm arlo, a software engineer with a passion for open source. Active in the vue.js ecosystem.
 
 - Member of [@vuejs](https://github.com/vuejs), [@vueuse](https://github.com/vueuse)
 - [vuejs/devtools-next](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools
