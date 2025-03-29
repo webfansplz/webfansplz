@@ -18,6 +18,7 @@ I'm arlo, a software engineer with a passion for open source. Active in the vue.
 - [temir](https://github.com/webfansplz/temir) - Vue for interactive command-line apps
 - [vue-termui](https://github.com/vue-terminal/vue-termui) - The Modern Terminal UI Framework
 - [vite-plugin-vue-inspector](https://github.com/webfansplz/vite-plugin-vue-inspector) - Jump to local editor source code while click the element of browser automatically.
+- [vite-plugin-vue-mcp](https://github.com/webfansplz/vite-plugin-vue-mcp) - Vite plugin that enables a MCP server helping models to understand your Vue app better.
 
 **If my work in the open source community has been helpful to you, please consider [sponsoring me](https://github.com/sponsors/webfansplz). Thank you.**
 
