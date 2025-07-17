@@ -12,7 +12,7 @@
 
 I'm arlo, a software engineer with a passion for open source. Active in the vue.js ecosystem.
 
-- Member of [@vuejs](https://github.com/vuejs), [@vueuse](https://github.com/vueuse)
+- Member of [@vuejs](https://github.com/vuejs), [@vitejs](https://github.com/vitejs), [@vueuse](https://github.com/vueuse)
 - [vuejs/devtools](https://github.com/vuejs/devtools) - Browser devtools extension for debugging Vue.js applications
 - [vuejs-challenges](https://github.com/webfansplz/vuejs-challenges) - Collection of Vue.js challenges
 - [temir](https://github.com/webfansplz/temir) - Vue for interactive command-line apps
