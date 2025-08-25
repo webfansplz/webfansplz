@@ -1,8 +1,8 @@
 <p align="center">
   <samp>
-    <a href="https://github.com/vuejs"><img src="./icons/vuejs.svg" width=18> Vue.js</a> .
+    <a href="https://github.com/vuejs/devtools"><img src="./icons/vuejs.svg" width=18> Vue.js</a> .
+    <a href="https://github.com/vitejs/devtools"><img src="./icons/vitejs.svg" width=18> Vite</a> .
     <a href="https://github.com/vueuse"><img src="./icons/vueuse.svg" width=15> VueUse</a> .
-    <a href="https://github.com/vue-terminal/vue-termui"><img src="./icons/vue-termui.svg" width=18> VueTermUI</a> .
     <a href="https://twitter.com/webfansplz"><img src="./icons/twitter.svg" width=20> Twitter</a> .
     <a href="https://bsky.app/profile/arlo7.me"><img src="./icons/bluesky.svg" width=20> Bluesky</a> .
    <a href="https://www.zhihu.com/people/weber-23-9"><img src="./icons/zhihu.png" width=18> 知乎</a>
@@ -11,7 +11,7 @@
 
 # Hi 👋
 
-I'm arlo, a software engineer with a passion for open source. Active in the vue.js ecosystem.
+I'm arlo, a software engineer with a passion for open source.
 
 - Member of [@vuejs](https://github.com/vuejs), [@vitejs](https://github.com/vitejs), [@vueuse](https://github.com/vueuse)
 - [vuejs/devtools](https://github.com/vuejs/devtools) - Browser devtools extension for debugging Vue.js applications
